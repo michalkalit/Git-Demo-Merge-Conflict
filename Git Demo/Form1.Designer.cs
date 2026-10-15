@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(600, 400);
             // Form appearance
-            this.BackColor = System.Drawing.Color.LightGray;
+            this.BackColor = System.Drawing.Color.Blue;
             this.Text = "Click Counter";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 
